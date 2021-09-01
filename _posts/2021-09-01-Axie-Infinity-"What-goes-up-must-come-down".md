@@ -13,7 +13,9 @@ What if I told you could arb 20%-30% with a 5 day carry with 30m in daily liquid
 ### Overview
 >Axie Infinity is a Pokémon-inspired universe where anyone can earn tokens through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets.
 >
+	
 ![](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/Axie/axiegameplay.png)
+
 ##### AXS Governance Token 
 AXS is the Axie governance token that represents according to them future earnings that come from Axie Treasury. Only way to currently earn AXS is from placing top 500 in arena. Future ways might include staking, Ronin DEX LP incentives, and who knows the hell knows. AXS is sent to treasury after users breed their Axies.
 ##### SLP 
@@ -26,6 +28,7 @@ Scholarships are the lending of Axie teams to other people who play with your as
 <p>A first time user has to purchase 3 Axies to start playing the game. Then you use your team to either play adventure mode (vs computer) or arena mode (vs another player) to earn SLP which is a crypto you can trade on AMMs / CEX. Each mode uses up energy which is constantly refreshed depending on how many Axies you have on your account, the more axies you have the faster the refresh rate.<p>
 
 ![](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/Axie/energyrefresh.jpg)
+	
 <p>So lets say you buy a team ~$550 and decide you want to play a card game for 4-6 hours a day. The average player earns roughly 120 SLP which is 50 from adventure, 25 for completing the daily quest, and the rest comes from arena wins. 
 Currently SLP price is $0.112 so you can earn roughly $14 a day with if current prices hold and ~$550/$14 ~40 days until you have recouped your initial investment (This of course is subject to the price of SLP which we will get into later)
 So why isn't SLP on a downward spiral to 0 with this constant inflation pressure?<p>
@@ -41,7 +44,9 @@ So why isn't SLP on a downward spiral to 0 with this constant inflation pressure
 If the breeding stops there is no burn --> no burn --> SLP goes down --> scholars make less money --> less breeding.<p>
 
 ### Tail wagging the dog?
+	
 ![](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/Axie/tailwag.jpg)
+	
 <p>As the saying goes is the dog wagging its tail or is the tail wagging the dog. In this case we must ask ourselves is Axie demand driving the price of SLP, or is SLP driving the demand for breeding. I'm leaning more towards SLP driving the demand for breeding because of how reflexive this asset is. Lets dig in... <p>
 
 ##### What is a reflexive asset?
@@ -55,7 +60,7 @@ Great pieces from Deribit Insights if your unfamiliar [Pt 1](https://insights.de
 
 <p>The narrative had shifted away from DEFI and towards NFTs again. Axie was directly in the crossfire and benefited greatly from the media / CT exposure. People saw oh look I can pay X amount for a team and generate 200% returns with the scholarship program. Aave is giving me 3% on my USDC, sure why the hell not. So boom, we get massive demand for Axie buying and scholarships. But then people dig a little further and realize they can make 20-30% margins just breeding. This perpetual cycle started churning very fast as people realized how much money there was to be made. <p>
 
-![enter image description here](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/Axie/axieflywheel.png)Where does this cycle start we might as well ask the Tootsie Pop Owl. It flows like this...
+![](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/Axie/axieflywheel.png)Where does this cycle start we might as well ask the Tootsie Pop Owl. It flows like this...
 
  - **New Participants**
 	 - As new players enter the system they need to purchase at least 3 Axies. This creates the initial market demand.
