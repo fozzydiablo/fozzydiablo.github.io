@@ -44,8 +44,4 @@ hr {
   opacity: 0.3;
 }
 
-#home image
-img[src*="#homeimage"] {
-   width:20px;
-   height:20px;
-}
+
