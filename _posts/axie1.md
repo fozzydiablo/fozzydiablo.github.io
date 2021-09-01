@@ -9,7 +9,7 @@ What if I told you could arb 20%-30% with a 5 day carry and 30m in daily liquidi
 >Axie Infinity is a Pokémon-inspired universe where anyone can earn tokens through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets.
 >
 ![](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/Axie/axiegameplay.png)
-<p>First lets go over the simple economics of Axie. In order to play the game you need to field a team of 3 Axies which roughly at the time of writing is .068 ETH  $225 (ETH ~3.2k) a piece. Then you use your team to either play adventure mode (vs computer) or arena mode (vs another player) to earn SLP which is a crypto you can trade on AMMs / CEX. Each mode uses up energy which is constantly refreshed depending on how many Axies you have on your account, the more axies you have the faster the refresh rate.<p>
+<p>First lets go over the simple economics of Axie. In order to play the game you need to field a team of 3 Axies which roughly at the time of writing is .053 ETH  $185 (ETH ~3.4k) a piece. Then you use your team to either play adventure mode (vs computer) or arena mode (vs another player) to earn SLP which is a crypto you can trade on AMMs / CEX. Each mode uses up energy which is constantly refreshed depending on how many Axies you have on your account, the more axies you have the faster the refresh rate.<p>
 
 ![](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/Axie/energyrefresh.jpg)
 
@@ -23,7 +23,7 @@ Ronin chain is a EVM compatible fork of ethereum. In order to participate in the
 Scholarships are the lending of Axie teams to other people who play with your assets. You then split the rewards between the manager (you) and the scholar. The manager has full control of the wallet that holds the Axies so there is no risk in the scholarship program from a custody perspective. This greatly boosted the Axie community because people in poorer countries can benefit from the income as well as the managers can benefit from the yield. For example average annual salary in the Philippines is ~ 10k and if someone with some spare time and an android phone can make couple hundred dollars every week thats awesome.
 ### The numbers
 <p>So lets say you buy a team ~$800 and decide you want to play a card game for 4-6 hours a day. The average player earns roughly 120 SLP which is 50 from adventure, 25 for completing the daily quest, and the rest comes from arena wins. 
-Currently SLP price is $0.153 so you can earn roughly $23 a day with if current prices hold and ~$800/$23 ~35 days until you have recouped your initial investment (This of course is subject to the price of SLP which we will get into later)
+Currently SLP price is $0.112 so you can earn roughly $14 a day with if current prices hold and ~$550/$14 ~40 days until you have recouped your initial investment (This of course is subject to the price of SLP which we will get into later)
 So why isn't SLP on a downward spiral to 0 with this constant inflation pressure?<p>
 
 ### Enter Breeding
