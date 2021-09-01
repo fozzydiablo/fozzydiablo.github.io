@@ -8,7 +8,7 @@ What if I told you could arb 20%-30% with a 5 day carry with 30m in daily liquid
  - The Axie ecosystem as a whole
  - The Axie flywheel **Breed / Burn / Scholar / New Players**
  - Breeding Margins
- - A trade ( Fozzy Yolo )
+ - Some trade ideas ( Fozzy Yolo )
 
 ### Overview
 >Axie Infinity is a Pokémon-inspired universe where anyone can earn tokens through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets.
