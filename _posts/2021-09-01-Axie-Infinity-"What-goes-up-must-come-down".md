@@ -11,9 +11,12 @@ At first glance Axie Infinity looks like a harmless simple click and drag game w
  - Some trade ideas ( Fozzy Yolo )
 
 ### Overview
->Axie Infinity is a Pokémon-inspired universe where anyone can earn tokens through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets.
->
+>Axie Infinity is a Pokémon-inspired universe where anyone can earn tokens through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets.>
+
+
 ![](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/Axie/axiegameplay.png)
+
+
 ##### AXS Governance Token 
 AXS is the Axie governance token that represents according to them future earnings that come from Axie Treasury. Only way to currently earn AXS is from placing top 500 in arena. Future ways might include staking, Ronin DEX LP incentives, and who knows the hell knows. AXS is sent to treasury after users breed their Axies.
 ##### SLP 
