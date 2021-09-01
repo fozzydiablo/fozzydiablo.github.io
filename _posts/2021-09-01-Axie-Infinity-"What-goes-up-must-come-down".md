@@ -3,7 +3,7 @@ What if I told you could arb 20%-30% with a 5 day carry with 30m in daily liquid
 
 ![](https://media.phillyvoice.com/media/images/giphy-227.width-704.gif)
 
-<p>At first glance Axie Infinity looks like a harmless simple click and drag game with a combat system a 4 year old could master but under the hood its a brilliantly designed economic machine that will churn to the constant demand of what I like to call "GDP Arbitrage". In todays ramblings I will try to cover...
+<p>At first glance Axie Infinity looks like a harmless simple click and drag game with a combat system a 4 year old could master but under the hood its a brilliantly designed economic machine that will churn to the constant demand of what I like to call "GDP Arbitrage". In todays ramblings I will try to cover...<p>
 
  - The Axie ecosystem as a whole
  - The Axie flywheel **Breed / Burn / Scholar / New Players**
