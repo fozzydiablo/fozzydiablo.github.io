@@ -128,3 +128,5 @@ Reflexivity is a beautiful thing. But the same ponzinomics that pump it up also 
 ![](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/Axie/musicstops.jpg)
 
 *-@fozzydiablo*
+	
+Best place to trade is [FTX Exchange](https://ftx.com/#a=areyawinningson)
