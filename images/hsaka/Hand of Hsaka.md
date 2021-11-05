@@ -103,11 +103,14 @@ Overall you can see from the volume profiles something is clearly happening. Bel
 ![enter image description here](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/hsaka/luna_chart.png)
 ![enter image description here](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/hsaka/returns_luna_all.png)
 ![enter image description here](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/hsaka/returns_mean_luna.png)
+
 Regardless of the reason, there was still money to be made off these tweets if one acted swift enough. Just buying every tweet associated with $LUNA would net you 30 bp even if you were late to the trade. Now enough with Nova's bags lets look at his past ~200 tweets.
 ### Last ~200 tweets
 ![enter image description here](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/hsaka/allreturnschartnew.png)![enter image description here](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/hsaka/all_tweets_describe.png)
+
 As you can see from the chart, a mix of low cap / volume tends to outperform which would make sense given it takes less money to move the market. As you can see from the top performers there is almost no buying until after Hsaka tweets.
 ![enter image description here](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/hsaka/HBAR-1438497673238040584.png)![enter image description here](https://raw.githubusercontent.com/fozzydiablo/fozzydiablo.github.io/main/images/hsaka/KSM-1449099675047399424.png)
+
 This trend is very similar for the other low caps / top performers. Even including majors like BTC and ETH we still have a positive performance which is pretty impressive.
 
 ## Conclusion
@@ -117,6 +120,7 @@ Im no math expert but I believe there is enough here to see what kind of power H
 Funny enough while working on this blog I had Hsaka notifications on. Saw a tweet about $ONE low cap shitcoin. Instantly put down my shake shack burger (gota add cherry peppers btw) market bought and continued to watch the apes bid.
 
 ![enter image description here](https://y.yarn.co/3b0a5b20-d032-4f06-ac9b-a6586d83f431_text.gif)
+
 *chip and a chair friends*
 
 -fozzy
