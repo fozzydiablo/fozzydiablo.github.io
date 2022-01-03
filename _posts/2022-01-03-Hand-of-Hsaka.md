@@ -85,6 +85,7 @@ Overall you can see from the volume profiles something is clearly happening. Bel
 ![enter image description here](https://github.com/fozzydiablo/fozzydiablo.github.io/blob/main/images/hsaka/lunareturnsbydate.png?raw=true)
 ![enter image description here](https://github.com/fozzydiablo/fozzydiablo.github.io/blob/main/images/hsaka/lunaavgrealnew.png?raw=true)
 ![enter image description here](https://github.com/fozzydiablo/fozzydiablo.github.io/blob/main/images/hsaka/lunaavg.png?raw=true)
+
 Regardless of the reason, there was still money to be made off these tweets if one acted swift enough. Just buying every tweet associated with $LUNA would net you ~ .50% even if you were late to the trade. Now enough with Novo's bags lets look at his past ~200 tweets.
 ### Last ~200 tweets
 ![enter image description here](https://github.com/fozzydiablo/fozzydiablo.github.io/blob/main/images/hsaka/meanreturncharts.png?raw=true)
@@ -94,18 +95,21 @@ Regardless of the reason, there was still money to be made off these tweets if o
 As you can see from the chart, a mix of low cap / volume tends to outperform which would make sense given it takes less money to move the market but you also have to consider the sample size. As you can see from the top performers there is almost no buying until after Hsaka tweets.
 
 ![enter image description here](https://github.com/fozzydiablo/fozzydiablo.github.io/blob/main/images/hsaka/HBAR-1438497673238040584.png?raw=true)![enter image description here](https://github.com/fozzydiablo/fozzydiablo.github.io/blob/main/images/hsaka/KSM-1449099675047399424.png?raw=true)
+
 This trend is very similar for the other low caps / top performers. Even including majors like BTC and ETH we still have a positive performance which is pretty impressive.
 
 ### Are you being dumped on anon?
 ![enter image description here](https://github.com/fozzydiablo/fozzydiablo.github.io/blob/main/images/hsaka/IMG_2465.jpeg?raw=true)
 ![stats of all returns](https://github.com/fozzydiablo/fozzydiablo.github.io/blob/main/images/hsaka/allreturnsavg.png?raw=true)
+
 Taking a look at the average performance for every tweet past a 30s-5min window we actually see no significant drop off but rather a increased profit. There is little data to suggest there are active asks waiting to fill off the apes. Although there is a slight mean reversion on low cap tweets we can see in HBAR and KSM specifically. So if your no gunslinger id stay away. 
 
 ![enter image description here](https://github.com/fozzydiablo/fozzydiablo.github.io/blob/main/images/hsaka/percentchangeOIhistogram.png?raw=true)
+
 Change in open interest follows a relatively normal distribution with mean increase of .70% and STD of .12%. This would suggest there is a slight bump in increased activity following his tweets in a 5 minute before and after timeframe.
 
 ## Conclusion
-Im no math wizard but I believe there is enough here to see what kind of power Hsaka wields. Is there money to be made off of this? Maybe, but you would need an algo that solely focuses on determining if there is enough liquidity present to market buy and also only focus on low cap stuff. The best trade could be to become Hsaka best fren and know his positions before he sends out the tweet. But for all we know Hsaka may work alone as he doesn't want anyone else stepping in his tracks......
+Im no math wizard but I believe there is enough here to see what kind of power Hsaka wields. Is he most likely very good at recognizing momentum? prolly. Is there money to be made off of this? Maybe, but you would need an algo that solely focuses on determining if there is enough liquidity present to market buy and also only focus on low cap stuff. The best trade could be to become Hsaka best fren and know his positions before he sends out the tweet. But for all we know Hsaka may work alone as he doesn't want anyone else stepping in his tracks......
 
 ![enter image description here](https://media2.giphy.com/media/D9EJck3fQy1os/giphy.gif?cid=ecf05e47ubwciipmu8526dwekxykqccxud2wcrhj3lghu1jc&rid=giphy.gif&ct=g)
 
